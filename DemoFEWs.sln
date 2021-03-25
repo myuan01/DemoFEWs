@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DemoFEWs", "DemoFEWs.csproj", "{0853F9F0-5E3D-453F-B449-0F60469A77BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0853F9F0-5E3D-453F-B449-0F60469A77BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0853F9F0-5E3D-453F-B449-0F60469A77BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0853F9F0-5E3D-453F-B449-0F60469A77BA}.Debug|x64.ActiveCfg = Debug|x64
+		{0853F9F0-5E3D-453F-B449-0F60469A77BA}.Debug|x64.Build.0 = Debug|x64
+		{0853F9F0-5E3D-453F-B449-0F60469A77BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0853F9F0-5E3D-453F-B449-0F60469A77BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0853F9F0-5E3D-453F-B449-0F60469A77BA}.Release|x64.ActiveCfg = Release|x64
+		{0853F9F0-5E3D-453F-B449-0F60469A77BA}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EEE578A-FBB2-401F-AF21-25E4C8DD9E92}
+	EndGlobalSection
+EndGlobal
